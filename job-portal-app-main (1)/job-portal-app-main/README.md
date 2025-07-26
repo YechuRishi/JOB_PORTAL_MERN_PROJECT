@@ -1,4 +1,4 @@
-Building Full Stack Job Portal App with React js, Express js. Node js, Clerk Auth and Sentry with Guidance of GreatStack
+Building Full Stack Job Portal App with React js, Express js. Node js, Clerk Auth 
 
 # Job Portal App
 
