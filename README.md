@@ -1,4 +1,4 @@
-Building Full Stack Job Portal App with React js, Express js. Node js, Clerk Auth
+Building Full Stack Job Portal App with React js, Express js. Node js, Clerk Auth.
 
 # Job Portal App
 
@@ -133,25 +133,20 @@ This is a Job Portal application built using the **MERN stack** (MongoDB, Expres
 - **Usage:**  
   Monitors and tracks errors in your application.
 
-### 12. **Sentry Profiling Node (Performance Monitoring)**
-- **Installation:**  
-  `npm install @sentry/profiling-node --save`
-- **Usage:**  
-  Tracks performance issues and monitors response times.
 
-### 13. **Clerk for Express (Authentication Middleware)**
+### 12. **Clerk for Express (Authentication Middleware)**
 - **Installation:**  
   `npm install @clerk/express`
 - **Usage:**  
   Handles authentication processes.
 
-### 14. **Axios (HTTP Requests)**
+### 13. **Axios (HTTP Requests)**
 - **Installation:**  
   `npm i axios`
 - **Usage:**  
   Used to make HTTP requests from Node.js.
 
-### 15. **Ngrok (Expose Local Server)**
+### 14. **Ngrok (Expose Local Server)**
 - **Installation:**  
   `npm i ngrok`
 - **Usage:**  
